@@ -40,5 +40,6 @@ doc = {
     'fields': list(FIELDS),
     'synced_utc': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
     'count': len(items), 'not_in_central': miss, 'items': items}
+OUT.parent.mkdir(parents=True, exist_ok=True)   # first run: public/data/ does not exist yet
 OUT.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
 print('written', len(items), 'missing', len(miss))
