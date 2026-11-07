@@ -53,7 +53,8 @@
           "sort": "1552",
           "url": "https://greathousefarmwiki.wordpress.com/great-house-farm/name-variations/",
           "status": "catalogue",
-          "wiki_pages": 7
+          "wiki_pages": 7,
+          "note": "CORE IN-SCOPE HOLDING. D219 is central to reconstructing the Tŷ Mawr / Great House manorial and parcel history; its 107-acre catalogue extent must be matched against the 1824 Stewart survey, D1/104 and later parcels. The catalogue heading and lease descriptions do not, by themselves, establish Bute’s freehold of every plot. Which parcels Bute held, and which he did not, and the exact interests of each party remain unresolved pending inspection of the individual instruments and plans. Research is ongoing."
         },
         {
           "term": "Ty Mawr Farm otherwise Ked Fen Farm (126 a.)",
@@ -61,7 +62,7 @@
           "date": "14 Oct 1806",
           "sort": "1806",
           "status": "catalogue",
-          "note": "The words are the cataloguer’s; the agreement itself is unread. It belongs to a Bute exchange, so it is tested here rather than counted as a record mention of Tŷ Mawr. The acreage (126 a.) differs from the 1824 survey. Under forensic examination; not a record of Tŷ Mawr (first named in the 1824 David Stewart survey, EV-0211).",
+          "note": "The words are the cataloguer’s; the agreement itself is unread. It is an agreement for an exchange, not proof by itself that the exchange completed or that Bute acquired the freehold. The acreage differs from the 1824 survey; its parcel correspondence with Cydfin / Tŷ Mawr / Great House must be established from the original instruments and plans. Which parcels Bute did or did not hold remains under research.",
           "added": "2026-10-31"
         },
         {
@@ -70,7 +71,7 @@
           "date": "1807",
           "sort": "1807",
           "status": "catalogue",
-          "note": "Same exchange as Lockwood D 1/104 read by a different cataloguer: “Ked Fen” in one, “Red Fen” in the other (a capital K and R are easily confused in a cursive hand). The originals have not been compared. Under forensic examination; not a record of Tŷ Mawr (first named in the 1824 David Stewart survey, EV-0211).",
+          "note": "The cataloguer’s reading; the instrument is not yet inspected. It is a comparative transaction lead, not a blanket title finding. The acreage and parcel correspondence with the 1824 Cydfin / Tŷ Mawr survey and later Great House parcels must be resolved against the original instruments and plans. Which parcels and legal interests Bute held or did not hold remain under research.",
           "added": "2026-10-31"
         },
         {
@@ -79,7 +80,7 @@
           "date": "1807",
           "sort": "1807",
           "status": "catalogue",
-          "note": "The cataloguer’s reading; the deed is unread. Under forensic examination.",
+          "note": "The cataloguer’s reading; the instrument is not yet inspected. It is a comparative transaction lead, not a blanket title finding. The acreage and parcel correspondence with the 1824 Cydfin / Tŷ Mawr survey and later Great House parcels must be resolved against the original instruments and plans. Which parcels and legal interests Bute held or did not hold remain under research.",
           "added": "2026-10-31"
         },
         {
@@ -88,7 +89,7 @@
           "date": "Bute catalogue range; not a Tŷ Mawr date",
           "sort": "1823",
           "status": "catalogue",
-          "note": "Within the catalogue heading “Cydfin Farm or Ty Mawr Farm, (107 a.)”: the cataloguer’s words; the leases are unread. Application and dating under forensic examination; Tŷ Mawr is first named in the 1824 David Stewart survey (EV-0211).",
+          "note": "Within the D219 catalogue heading for Cydfin Farm or Ty Mawr Farm (107 a.). This is a core, in-scope holding; the individual leases and plans are central to the title and manorial reconstruction. The catalogue label does not establish a blanket freehold in Bute or determine the parcels held by any party. Parcel boundaries and each legal interest remain under research.",
           "url": "https://greathousefarmwiki.wordpress.com/great-house-farm/name-variations/",
           "added": "2026-10-31"
         },
@@ -99,7 +100,7 @@
           "sort": "1824",
           "url": "https://greathousefarmwiki.wordpress.com/evidence/ev-0211-db-e-1-plan-19-cedfin-ty-mawr-1824/",
           "status": "record",
-          "note": "Seen as the archive’s digital images (family photographs).",
+          "note": "The 1824 survey identifies the holding by this name. The fact that it is a Bute estate survey does not by itself prove that Bute held the freehold of every parcel depicted. The survey’s mapped extent, title interests and correspondence with D219’s 107 acres, D1/104’s 126 acres and later parcels require individual instrument and boundary comparison. Research ongoing.",
           "wiki_pages": 9
         },
         {
@@ -108,7 +109,7 @@
           "date": "1824",
           "sort": "1824",
           "status": "record",
-          "note": "Within “Cedfin or Ty Mawr Farm” on the survey; seen as the archive’s digital images (family photographs).",
+          "note": "The 1824 survey identifies the holding by this name. The fact that it is a Bute estate survey does not by itself prove that Bute held the freehold of every parcel depicted. The survey’s mapped extent, title interests and correspondence with D219’s 107 acres, D1/104’s 126 acres and later parcels require individual instrument and boundary comparison. Research ongoing.",
           "url": "https://greathousefarmwiki.wordpress.com/evidence/ev-0211-db-e-1-plan-19-cedfin-ty-mawr-1824/",
           "added": "2026-10-31"
         },
@@ -1521,7 +1522,8 @@
           "sort": "1552",
           "url": "https://greathousefarmwiki.wordpress.com/great-house-farm/name-variations/",
           "status": "catalogue",
-          "wiki_pages": 7
+          "wiki_pages": 7,
+          "note": "CORE IN-SCOPE HOLDING. D219 is central to reconstructing the Tŷ Mawr / Great House manorial and parcel history; its 107-acre catalogue extent must be matched against the 1824 Stewart survey, D1/104 and later parcels. The catalogue heading and lease descriptions do not, by themselves, establish Bute’s freehold of every plot. Which parcels Bute held, and which he did not, and the exact interests of each party remain unresolved pending inspection of the individual instruments and plans. Research is ongoing."
         },
         {
           "term": "Cedfin or Ty Mawr Farm",
@@ -1530,7 +1532,8 @@
           "sort": "1824",
           "url": "https://greathousefarmwiki.wordpress.com/evidence/ev-0211-db-e-1-plan-19-cedfin-ty-mawr-1824/",
           "status": "record",
-          "wiki_pages": 9
+          "wiki_pages": 9,
+          "note": "The 1824 survey identifies the holding by this name. The fact that it is a Bute estate survey does not by itself prove that Bute held the freehold of every parcel depicted. The survey’s mapped extent, title interests and correspondence with D219’s 107 acres, D1/104’s 126 acres and later parcels require individual instrument and boundary comparison. Research ongoing."
         },
         {
           "term": "Cwm Cydfin, Nant Cydfin (Leckwith)",
