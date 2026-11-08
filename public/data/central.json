@@ -10,23 +10,10 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-07T18:55:08Z",
- "count": 89,
+ "synced_utc": "2026-11-08T06:19:24Z",
+ "count": 102,
  "not_in_central": [
-  "EV-0223",
-  "EV-0224",
-  "EV-0225",
-  "EV-0228",
-  "EV-0231",
-  "EV-0232",
-  "EV-0242",
-  "EV-0244",
-  "EV-0249",
-  "EV-0251",
-  "EV-0252",
   "EV-0255",
-  "EV-0267",
-  "EV-0273",
   "EV-0295",
   "EV-0296",
   "EV-0297",
@@ -854,6 +841,123 @@
    "date_sort": "1985-12-09",
    "status": "PENDING",
    "page": null
+  },
+  "EV-0223": {
+   "id": "EV-0223",
+   "kind": "evidence",
+   "title": "1881 census: reported Llandough Home Farm / R-W-S-S Farm wording",
+   "date_display": null,
+   "date_sort": null,
+   "status": null,
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0223-1881-census-name-variant/"
+  },
+  "EV-0224": {
+   "id": "EV-0224",
+   "kind": "evidence",
+   "title": "1881 census, Llandough, RG11/5288 page 2: “Llandough Home Farm”, John Williams, farmer",
+   "date_display": "Census night, 3 April 1881",
+   "date_sort": "1881-04-03",
+   "status": "HELD (photo). Transcribed by Tab from the photo, 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0224-1881-census-llandough-rg11-5288/"
+  },
+  "EV-0225": {
+   "id": "EV-0225",
+   "kind": "evidence",
+   "title": "Trade directories, 1868–1901: John Williams at “Great House”, Llandough",
+   "date_display": "1868, 1875, 1880, 1887, 1891 and 1901",
+   "date_sort": "1868",
+   "status": "HELD (public online copy). Quotes read from the linked pages, 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0225-trade-directories-1868-1901-john-williams-great-house/"
+  },
+  "EV-0228": {
+   "id": "EV-0228",
+   "kind": "evidence",
+   "title": "Llandough Farm and the Rees family, 1841–1910 (a separate farm, recorded for disambiguation)",
+   "date_display": "c.1841; 1865; 1886; 1898; 1910",
+   "date_sort": "1841",
+   "status": "HELD (public online copies).",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0228-llandough-farm-rees-family-1841-1910/"
+  },
+  "EV-0231": {
+   "id": "EV-0231",
+   "kind": "evidence",
+   "title": "London Gazette: HM Land Registry notices that Llandough land was “about to be registered”, 1960–1972",
+   "date_display": "4 March 1960; 27 November 1964; 3 July 1969; 1 August 1972",
+   "date_sort": "1960-03-04",
+   "status": "HELD (public online copy). Whether any parcel was Great House Farm land: UNCONFIRMED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0231-london-gazette-land-registry-notices-llandough-1960-1972/"
+  },
+  "EV-0232": {
+   "id": "EV-0232",
+   "kind": "evidence",
+   "title": "Commons Registration (Glamorgan) Act 1983 (c. ix)",
+   "date_display": "Royal Assent 26 July 1983; in force 1 September 1983 (s.1(2))",
+   "date_sort": "1983-07-26",
+   "status": "HELD (public online copy). Full text read (OCR), 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0232-commons-registration-glamorgan-act-1983/"
+  },
+  "EV-0242": {
+   "id": "EV-0242",
+   "kind": "evidence",
+   "title": "Western Mail, 9 October 1957, p.6: an item carrying the name “Mrs. M. D. BUCKLER … Llandough.” (probably a reader’s letter; unconfirmed)",
+   "date_display": "Wednesday 9 October 1957",
+   "date_sort": "1957-10-09",
+   "status": "PENDING — SNIPPET ONLY. Page image not seen (British Newspaper Archive subscription). Content and subject unknown.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0242-western-mail-1957-mrs-m-d-buckler-snippet/"
+  },
+  "EV-0244": {
+   "id": "EV-0244",
+   "kind": "evidence",
+   "title": "Welsh Government ATISN 26-0010 disclosure response: retention and destruction schedules; searches under the farm name, Western Ground Rents Ltd and BP Properties Ltd",
+   "date_display": "19 October 2026 (emailed 10:25 BST)",
+   "date_sort": "2026-10-19",
+   "status": "HELD — open the letter (PDF, Wayback archive). Public copy: the requester’s personal email address is redacted; nothing else is changed.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0244-welsh-government-atisn-26-0010-disclosure-response-19-oct-2026/"
+  },
+  "EV-0249": {
+   "id": "EV-0249",
+   "kind": "evidence",
+   "title": "London Gazette, 3 July 1996 (Issue 54455, p. 8982): Western Ground Rents Ltd (no. 342092) placed in members’ voluntary liquidation with four BP companies, registered office BP House",
+   "date_display": "3 July 1996 (liquidator appointed 26 June 1996)",
+   "date_sort": "1996-07-03",
+   "status": "HELD (public online copy; read 19 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0249-london-gazette-3-jul-1996-western-ground-rents-bp-group-liquidation/"
+  },
+  "EV-0251": {
+   "id": "EV-0251",
+   "kind": "evidence",
+   "title": "Companies House register: BP Properties Limited, company number 00699446, incorporated 27 July 1961, still active",
+   "date_display": "Register read 19 Oct 2026 (incorporation 27 July 1961)",
+   "date_sort": "2026-10-19",
+   "status": "HELD (public register; read 19 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0251-companies-house-bp-properties-limited-00699446/"
+  },
+  "EV-0252": {
+   "id": "EV-0252",
+   "kind": "evidence",
+   "title": "The National Archives OS 35/2503: Ordnance Survey object name book for sheet Glamorgan 47 NW (1898–1942), parishes including Llandough",
+   "date_display": "1898–1942",
+   "date_sort": "1898",
+   "status": "SOURCE PENDING (not seen; free to view at Kew; copy would be a paid order)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0252-tna-os-35-2503-object-name-book-glamorgan-47-nw/"
+  },
+  "EV-0267": {
+   "id": "EV-0267",
+   "kind": "evidence",
+   "title": "Companies House 01379651: the appellant’s solicitors’ service company was “John Loosemore & Co. Services” until 18 November 1987, then “Loosemores Services” (file-custody route for the 1986–87 defence file)",
+   "date_display": "18 November 1987 (change of name); incorporated 20 July 1978",
+   "date_sort": "1987-11-18",
+   "status": "HELD (register read 20 Oct 2026); whether the historic closed files passed to Hugh James is UNCONFIRMED",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0267-john-loosemore-co-loosemores-services-01379651/"
+  },
+  "EV-0273": {
+   "id": "EV-0273",
+   "kind": "evidence",
+   "title": "South Wales Echo, 23 February 1990, p.1: “company chiefs are bidding [to] build homes” on the Great House Farm land; Llandough Community Council made no objection but wanted the land registered as village green (snippet)",
+   "date_display": "23 February 1990",
+   "date_sort": "1990-02-23",
+   "status": "SOURCE PENDING (snippet only)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0273-south-wales-echo-23-feb-1990-great-house-farm-homes-bid-village-green/"
   },
   "EV-0629": {
    "id": "EV-0629",
